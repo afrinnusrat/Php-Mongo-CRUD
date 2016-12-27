@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "58519527b0d303ea22c424e1" }, "user_id" : "admin", "name" : "avnish alok", "pass" : "4444", "insert_date" : { "$date" : "2016-12-15T00:23:27.006+0530" }, "user_type" : "101" }
+{ "_id" : { "$oid" : "585196c0b0d303ea22c424e2" }, "user_id" : "u001", "name" : "deepak kumar", "pass" : "22222", "insert_date" : { "$date" : "2016-12-15T00:30:16.304+0530" }, "user_type" : "201" }
