@@ -4,7 +4,7 @@ A crud operation in php using mongodb as a database.
 
 Installation requirements:
 -------------------------
-In order to run this project, php and monogodb must be installed on your system.
+In order to run this project, php and monogodb must be installed on your system. Follow the link to install mongodb driver for php - [http://php.net/manual/en/mongodb.installation.pecl.php](http://php.net/manual/en/mongodb.installation.pecl.php)
 
 
 Installation:
