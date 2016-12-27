@@ -9,14 +9,16 @@ In order to run this project, php and monogodb must be installed on your system.
 
 Installation:
 -------------
-1. Download the code from repository. Unzip the zip file.
+1. Download the code from repository. 
 
-2. Put the folder 'Php-Mongo-CRUD-master' in root directory of your xampp/wamp. In case of xampp: put it in htdocs folder.
+2. Unzip the zip file.
 
-3. Import mongo database 'users_db.json' into your mongodb. 
+3. Put the folder 'Php-Mongo-CRUD-master' in root directory of your xampp/wamp. In case of xampp: put it in htdocs folder.
+
+4. Import mongo database 'users_db.json' into your mongodb. 
    - sudo mongoimport --db login_db --collection user --file users_db.json
    
-4. Open browser; goto localhost/Php-Mongo-CRUD-master and press enter.
+5. Open browser; goto localhost/Php-Mongo-CRUD-master and press enter.
 
 The login screen will appear.
 
