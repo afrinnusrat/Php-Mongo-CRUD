@@ -6,6 +6,13 @@ Installation requirements:
 -------------------------
 In order to run this project, php and monogodb must be installed on your system. Follow the link to install mongodb driver for php - [http://php.net/manual/en/mongodb.installation.pecl.php](http://php.net/manual/en/mongodb.installation.pecl.php)
 
+### Steps to install mongodb for windows users:
+1. Download mongodb dll file from [https://pecl.php.net/package/mongodb](https://pecl.php.net/package/mongodb)
+
+Note: click on dll link to get all dll lists. Here you can download dll file according to your php version.
+In my case(i am using PHP version 5.6.20) i choosed mongodb 1.1.7 and downloaded 5.6 Thread Safe (TS) x86 [windows.php.net/downloads/pecl/releases/mongodb/1.1.7/php_mongodb-1.1.7-5.6-ts-vc11-x86.zip](windows.php.net/downloads/pecl/releases/mongodb/1.1.7/php_mongodb-1.1.7-5.6-ts-vc11-x86.zip)
+
+
 
 Installation:
 -------------
