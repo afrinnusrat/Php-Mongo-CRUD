@@ -4,7 +4,7 @@ A crud operation in php using mongodb as a database.
 
 Installation requirements:
 -------------------------
-In order to run this project, php and monogodb must be installed on your system. Follow the link to install mongodb driver for php - [http://php.net/manual/en/mongodb.installation.pecl.php](http://php.net/manual/en/mongodb.installation.pecl.php)
+In order to run this project, php and monogodb must be installed on your system.
 
 ### Steps to install mongodb for windows users:
 1. Download mongodb dll file from [https://pecl.php.net/package/mongodb](https://pecl.php.net/package/mongodb)
@@ -18,6 +18,12 @@ In order to run this project, php and monogodb must be installed on your system.
 3. Add extension in new line "extension=php_mongodb.dll" in your php.ini file.
 
 4. Now restart your server. You have successfully installed mongodb driver.
+
+### Steps to install mongodb for linux users:
+
+1. Follow the link to install mongodb driver for linux - [http://php.net/manual/en/mongodb.installation.pecl.php](http://php.net/manual/en/mongodb.installation.pecl.php)
+
+
 
 
 
