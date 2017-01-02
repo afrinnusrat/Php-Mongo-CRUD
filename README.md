@@ -17,7 +17,7 @@ In order to run this project, php and monogodb must be installed on your system.
 
 3. Add extension in new line "extension=php_mongodb.dll" in your php.ini file.
 
-4. Now restart your server. You have successfully installed mongodb driver.
+4. Now restart your php server. You have successfully installed mongodb driver.
 
 ### Steps to install mongodb for linux users:
 
