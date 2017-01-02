@@ -35,8 +35,8 @@ Installation:
 
 3. Put the folder 'Php-Mongo-CRUD-master' in root directory of your xampp/wamp. In case of xampp: put it in htdocs folder.
 
-4. Import mongo database 'users_db.json' into your mongodb. 
-   - sudo mongoimport --db login_db --collection user --file users_db.json
+4. Import mongo database 'users_db.json' into your mongodb.
+   - mongoimport --db login_db --collection user --file users_db.json
    
 5. Open browser; goto localhost/Php-Mongo-CRUD-master and press enter.
 
